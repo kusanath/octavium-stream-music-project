@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>MORE </title>
+<h1><center>MORE SUGGESTIONS
+</center></h1>
+<center><img src="r.jpg"  width="500" height="500"></center>
+<meta charset ="utf-8"/>
+</head>

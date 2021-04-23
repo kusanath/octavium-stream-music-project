@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>sidsriram-artist </title>
+<style>
+body {
+  background-image: url('b2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<h1><center> Registeration Successful
+</center></h1>
+<h3><center> Please check the registered email id to get the username and password you can login with the crendentials.If facing any problems contact us..!
+</center></h3>
+<h3><center> !!!Thank you for signing up with us!!!
+</center></h3>
+<meta charset ="utf-8"/>
+</head>
